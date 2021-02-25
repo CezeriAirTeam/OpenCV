@@ -1,0 +1,3 @@
+# OpenCV
+
+OpenCV - örnek projeler.
